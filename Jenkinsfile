@@ -1,7 +1,7 @@
 pipeline{  //it indicate it declarative pipeline . and pipeline stars from here
   agent any
   tools{
-    nodejs 'nodejs-20.11.0'
+    nodejs 'nodeJS-20.11.0'
   }
 
   environment{
